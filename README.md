@@ -1,8 +1,3 @@
-# React + Vite
+React + Firebase + API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto es un sitio web interactivo que muestra información proveniente de una API en la pantalla de Inicio. Además, en la pantalla de Chat, se simula la interacción entre los usuarios a través de un sistema de mensajería en tiempo real.
