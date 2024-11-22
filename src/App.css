@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Press Start 2P", system-ui;
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: green;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar-link:hover {
+  padding: 0 60px;
+  background-color: greenyellow;
+  color: green;
+  border-radius: 15px;
+}
